@@ -7,3 +7,4 @@ numpy
 shapely>=2.0
 osmnx
 geopandas
+scikit-learn
