@@ -3,7 +3,7 @@
 2025.05 ~ 2025.05
 
 🔗 Live Demo  
-(https://navibegimd-XXXXXX.streamlit.app)
+https://navibegimd-dhlpdlcvbidv7c9gbprhtj.streamlit.app/
 
 📂 GitHub Repository  
 https://github.com/INSEONGBEEN/navi_begimd
