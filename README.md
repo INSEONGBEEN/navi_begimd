@@ -1,6 +1,6 @@
 # 🧭 초보자용 안전 경로 추천 시스템
 @injjang  
-2025.05 ~ 2025.05
+2025.04 ~ 2025.04
 
 🔗 Live Demo  
 https://navibegimd-dhlpdlcvbidv7c9gbprhtj.streamlit.app/
